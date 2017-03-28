@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jami Gibbs</title>
+ <link href="http://jamigibbs.com/atom.xml" rel="self"/>
+ <link href="http://jamigibbs.com/"/>
+ <updated>2017-03-28T15:13:04+03:00</updated>
+ <id>http://jamigibbs.com</id>
+ <author>
+   <name>Jami Gibbs</name>
+   <email>jami0821@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Fair Split Calculator</title>
+   <link href="http://jamigibbs.com/2016/11/10/fair-split-calculator/"/>
+   <updated>2016-11-10T00:00:00+02:00</updated>
+   <id>http://jamigibbs.com/2016/11/10/fair-split-calculator</id>
+   <content type="html">&lt;p&gt;A simple ReactJS calculator that takes two earnings and determines the amount each should pay towards an inputed set of household bills.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scribe</title>
+   <link href="http://jamigibbs.com/2016/06/16/scribe/"/>
+   <updated>2016-06-16T00:00:00+03:00</updated>
+   <id>http://jamigibbs.com/2016/06/16/scribe</id>
+   <content type="html">&lt;p&gt;A WordPress theme that excels as a writing tool. Built with &lt;a href=&quot;http://underscores.me/&quot;&gt;_s&lt;/a&gt;, &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt;, and Sass.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phantom</title>
+   <link href="http://jamigibbs.com/2016/05/06/phantom/"/>
+   <updated>2016-05-06T00:00:00+03:00</updated>
+   <id>http://jamigibbs.com/2016/05/06/phantom</id>
+   <content type="html">&lt;p&gt;A minimalist, responsive portfolio theme for Jekyll with Bootstrap.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grocery Store Monopoly Exchange</title>
+   <link href="http://jamigibbs.com/2016/05/05/grocery-store-monopoly-exchange/"/>
+   <updated>2016-05-05T00:00:00+03:00</updated>
+   <id>http://jamigibbs.com/2016/05/05/grocery-store-monopoly-exchange</id>
+   <content type="html">&lt;p&gt;A SPA that lists a directory of user inputed tickets from the grocery store Monopoly game to facilitate exchanges with friends &amp;amp; family built with JavaScript and Angular.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Calculator</title>
+   <link href="http://jamigibbs.com/2016/05/04/calculator/"/>
+   <updated>2016-05-04T00:00:00+03:00</updated>
+   <id>http://jamigibbs.com/2016/05/04/calculator</id>
+   <content type="html">&lt;p&gt;A functional calculator that can perform basic operations built with JavaScript, jQuery, &amp;amp; Sass&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Simon Game</title>
+   <link href="http://jamigibbs.com/2016/05/03/simon-game/"/>
+   <updated>2016-05-03T00:00:00+03:00</updated>
+   <id>http://jamigibbs.com/2016/05/03/simon-game</id>
+   <content type="html">&lt;p&gt;The classic memory game built with JavaScript, jQuery, &amp;amp; Sass.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
